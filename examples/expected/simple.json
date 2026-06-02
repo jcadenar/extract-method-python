@@ -1,0 +1,9 @@
+{
+  "enclosing_function": "foo",
+  "selection_start_line": 2,
+  "selection_end_line": 3,
+  "selected_statement_count": 2,
+  "input_params": [],
+  "output_values": ["y"],
+  "new_method_name": "extracted"
+}

@@ -7,3 +7,4 @@ name = "refactor-method-tool"
 version = "0.1.0"
 description = "Extract Method refactoring tool for Python using ast"
 requires-python = ">=3.10"
+dependencies = ["libcst>=0.4.15"]
