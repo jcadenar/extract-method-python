@@ -78,7 +78,7 @@ EJEMPLOS:
 
     python scripts/auto_extract_fn.py tests/test.py procesar_compra_sistema_monolitico
 
-    python scripts/auto_extract_fn.py tests/test.py autenticar_usuario
+    python scripts/auto_extract_fn.py tests/test_auth.py autenticar_usuario
 
 
 USO COMO LIBRERÍA
