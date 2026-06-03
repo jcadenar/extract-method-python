@@ -19,3 +19,5 @@ src/refactor_tool/refactor/code_generator.py
 src/refactor_tool/refactor/extract_method.py
 src/refactor_tool/utils/__init__.py
 tests/test.py
+tests/test_auth.py
+tests/test_auth_extracted.py
