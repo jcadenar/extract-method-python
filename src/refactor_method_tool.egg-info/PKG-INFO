@@ -1,0 +1,6 @@
+Metadata-Version: 2.4
+Name: refactor-method-tool
+Version: 0.1.0
+Summary: Extract Method refactoring tool for Python using ast
+Requires-Python: >=3.10
+Requires-Dist: libcst>=0.4.15
