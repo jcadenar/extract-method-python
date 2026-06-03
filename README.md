@@ -74,6 +74,12 @@ cada bloque como función helper:
 Si no se indica --output, el resultado se escribe en
 `<nombre_archivo>_extracted.py` junto al archivo original.
 
+EJEMPLOS:
+
+    python scripts/auto_extract_fn.py tests/test.py procesar_compra_sistema_monolitico
+
+    python scripts/auto_extract_fn.py tests/test.py autenticar_usuario
+
 
 USO COMO LIBRERÍA
 -----------------
